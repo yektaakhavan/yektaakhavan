@@ -1,5 +1,5 @@
-                           # Hi 🙋‍♀️, I'm Yekta
-             ### A passionate frontend developer from Iran
+# Hi 🙋‍♀️, I'm Yekta
+### A passionate frontend developer from Iran
 
 🌱 I’m currently learning **React, tailwind**
 
