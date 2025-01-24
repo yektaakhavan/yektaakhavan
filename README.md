@@ -1,16 +1,47 @@
-## Hi there 👋
+                           # Hi 🙋‍♀️, I'm Yekta
+             ### A passionate frontend developer from Iran
 
-<!--
-**yektaakhavan/yektaakhavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **React, tailwind**
 
-Here are some ideas to get you started:
+👩🏻‍💻 All of my projects are available at [https://github.com/yektaakhavan](https://github.com/yektaakhavan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me **yekta.akhavan.sa@gmail.com**
+
+---
+---
+
+### 🛠️Languages and Tools:
+
+#### Front-End Developer
+
+![HTML](./images/HTML5.svg)
+![css](./images/css3.svg)
+![javascript](./images/javascript.svg)
+
+
+#### Frameworks & Libraries:
+
+![javascript](./images/jquery.svg)
+
+#### Styling & UI::
+
+![css](./images/css3.svg)
+![css](./images/sass.svg)
+![css](./images/bootstrap.svg)
+<!-- ![css](./images/figma-ar21.svg) -->
+<!-- ![css](./images/css3.svg) -->
+
+
+#### Version Control:
+
+![css](./images/git.svg)
+![css](./images/github.svg)
+
+---
+---
+
+### Connect with me:
+
+[![yekta-akhavan-1a607021b](./images/linkedin.svg)](https://www.linkedin.com/in/yekta-akhavan-1a607021b/)
+[![yekta__web](./images/instagram.svg)](https://www.instagram.com/)
+
