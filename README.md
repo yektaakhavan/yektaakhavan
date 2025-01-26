@@ -43,7 +43,7 @@ I am an enthusiastic and hard-working front-end developer who has been seriously
 
 ---
 
-### Connect with me:
+### 🔗Connect With Me:
 
 [![yekta-akhavan-1a607021b](https://img.shields.io/badge/-Linkdein-0A66C2?logo=Linkdein&logoColor=white)](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 [![yekta__web](https://img.shields.io/badge/-Instagram-FE0172?logo=instagram&logoColor=white)](https://www.instagram.com/)
