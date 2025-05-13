@@ -1,7 +1,7 @@
 # Hi 🙋‍♀️, I'm Yekta
 ### A passionate frontend developer from Iran
 
-I am an enthusiastic and hard-working front-end developer who has been seriously learning and working in this field for the past three months. Previously, I was self-taught with the basic concepts of this field, and now I am focused on learning JavaScript in depth and implementing practical projects to strengthen my skills. I am interested in developing with React and working in professional teams, and my goal is to become a professional front-end developer. My passion for continuous learning and growth, combined with the ability to do practical projects, helps me achieve my goals and be a valuable addition to creative and dynamic teams.
+I am a passionate and hard-working front-end developer who has been seriously learning and working in this field for the past three months. Previously, I was self-taught in the basic concepts of this field, and now I am focusing on learning React in depth and implementing practical projects to strengthen my skills. I am interested in working in professional teams and my goal is to become a professional front-end developer. My passion for continuous learning and growth, combined with the ability to do practical projects, helps me achieve my goals and be a valuable member of creative and dynamic teams.
 
 ---
 
@@ -25,6 +25,9 @@ I am an enthusiastic and hard-working front-end developer who has been seriously
 #### Frameworks & Libraries:
 
 ![jquery](https://img.shields.io/badge/-Jquery-0C64A1?logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/-React-58C4DC?logo=react&logoColor=white)
+
+
 
 #### Styling & UI::
 
@@ -45,6 +48,6 @@ I am an enthusiastic and hard-working front-end developer who has been seriously
 
 ### 🔗Connect With Me:
 
-[![yekta-akhavan-1a607021b](https://img.shields.io/badge/-Linkdein-0A66C2?logo=Linkdein&logoColor=white)](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+[![yekta-akhavan-1a607021b](https://img.shields.io/badge/-Linkdein-0A66C2?logo=Linkdein&logoColor=white)](https://www.linkedin.com/in/yekta-akhavan/)
 [![yekta__web](https://img.shields.io/badge/-Instagram-FE0172?logo=instagram&logoColor=white)](https://www.instagram.com/)
 
