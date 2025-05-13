@@ -9,7 +9,7 @@ I am a passionate and hard-working front-end developer who has been seriously le
 
 👩🏻‍💻 All of my projects are available at [https://github.com/yektaakhavan](https://github.com/yektaakhavan)
 
-📫 How to reach me **yekta.akhavan.sa@gmail.com**
+📫 How to reach me **yekta.akhavan.dev@gmail.com**
 
 ---
 
