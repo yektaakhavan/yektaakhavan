@@ -51,3 +51,8 @@ I am a passionate and hard-working front-end developer who has been seriously le
 [![yekta-akhavan-1a607021b](https://img.shields.io/badge/-Linkdein-0A66C2?logo=Linkdein&logoColor=white)](https://www.linkedin.com/in/yekta-akhavan/)
 [![yekta__web](https://img.shields.io/badge/-Instagram-FE0172?logo=instagram&logoColor=white)](https://www.instagram.com/)
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yektaakhavan&layout=compact&theme=nightowl)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yektaakhavan&theme=nightowl)
