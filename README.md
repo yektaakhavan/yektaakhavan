@@ -57,4 +57,4 @@ I am a passionate and hard-working front-end developer who has been seriously le
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yektaakhavan&theme=nightowl)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yektaakhavan&theme=nightowl)
+
