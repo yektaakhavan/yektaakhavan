@@ -1,4 +1,5 @@
 # Hi 🙋‍♀️, I'm Yekta
+![Profile Views](https://komarev.com/ghpvc/?username=yektaakhavan)
 ### A passionate frontend developer from Iran
 
 I am a passionate and hard-working front-end developer who has been seriously learning and working in this field for the past three months. Previously, I was self-taught in the basic concepts of this field, and now I am focusing on learning React in depth and implementing practical projects to strengthen my skills. I am interested in working in professional teams and my goal is to become a professional front-end developer. My passion for continuous learning and growth, combined with the ability to do practical projects, helps me achieve my goals and be a valuable member of creative and dynamic teams.
@@ -52,7 +53,12 @@ I am a passionate and hard-working front-end developer who has been seriously le
 [![yekta__web](https://img.shields.io/badge/-Instagram-FE0172?logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yektaakhavan&layout=compact&theme=nightowl)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yektaakhavan&theme=nightowl)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yektaakhavan\&layout=compact&theme=nightowl)
+
+
+
+
