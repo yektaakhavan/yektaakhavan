@@ -1,5 +1,4 @@
 # Hi 🙋‍♀️, I'm Yekta
-![Profile Views](https://komarev.com/ghpvc/?username=yektaakhavan)
 ### A passionate frontend developer from Iran
 
 I am a passionate and hard-working front-end developer who has been seriously learning and working in this field for the past three months. Previously, I was self-taught in the basic concepts of this field, and now I am focusing on learning React in depth and implementing practical projects to strengthen my skills. I am interested in working in professional teams and my goal is to become a professional front-end developer. My passion for continuous learning and growth, combined with the ability to do practical projects, helps me achieve my goals and be a valuable member of creative and dynamic teams.
