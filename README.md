@@ -48,4 +48,9 @@ I’m highly interested in joining professional teams and contributing to dynami
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yektaakhavan&theme=nightowl)
 
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yektaakhavan&layout=compact&theme=nightowl)
+
+[![wakatime](https://wakatime.com/badge/user/52e2385d-e87b-4625-8263-8b46e9c088a2.svg)](https://wakatime.com/@52e2385d-e87b-4625-8263-8b46e9c088a2)
+
+
 
