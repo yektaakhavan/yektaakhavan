@@ -2,9 +2,7 @@
 
 ### 💻 A passionate Front-End Developer from Iran
 
-I’m a passionate and hard-working front-end developer who has been seriously learning and working in this field for the past few months. I started as a self-taught developer and now I’m focusing deeply on **React** and building real-world projects to sharpen my skills.
-
-I’m highly interested in joining professional teams and contributing to dynamic, creative environments. My enthusiasm for continuous learning and hands-on experience fuels my journey toward becoming a **professional front-end developer**.
+Front-End Developer passionate about crafting interactive and user-friendly web experiences. Experienced with React and modern web technologies, I enjoy transforming design ideas into real-world applications. I am motivated to collaborate with professional teams, continuously grow my skills, and contribute to building seamless, engaging, and impactful digital products.
 
 ---
 
