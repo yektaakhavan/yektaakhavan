@@ -8,6 +8,7 @@ Front-End Developer passionate about crafting interactive and user-friendly web 
 
 - 🌱 I’m currently learning **Advance React**
 - 👩🏻‍💻 All of my projects are available on [GitHub](https://github.com/yektaakhavan)
+- 🔗 See my portfolio at https://yekta-akhavan.vercel.app/
 - 📫 Reach me at **yekta.akhavan.dev@gmail.com**
 
 ---
