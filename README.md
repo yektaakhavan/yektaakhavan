@@ -47,6 +47,8 @@ Front-End Developer passionate about crafting interactive and user-friendly web 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yektaakhavan&theme=nightowl)
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yektaakhavan&theme=nightowl)
+
 
 
 
