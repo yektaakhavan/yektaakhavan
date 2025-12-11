@@ -43,11 +43,17 @@ Front-End Developer passionate about crafting interactive and user-friendly web 
 
 ## 📊 GitHub Stats
 
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yektaakhavan&layout=compact&theme=nightowl)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yektaakhavan&theme=nightowl)
 
+[![wakatime](https://wakatime.com/badge/user/52e2385d-e87b-4625-8263-8b46e9c088a2.svg)](https://wakatime.com/@52e2385d-e87b-4625-8263-8b46e9c088a2)
+
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yektaakhavan&theme=nightowl)
+
+
 
 
 
