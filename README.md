@@ -1,14 +1,21 @@
 # 🙋‍♀️ Hi, I'm Yekta
+### 💻 Front-End Developer from Iran, building with React
 
-### 💻 A passionate Front-End Developer from Iran
-
-Front-End Developer passionate about crafting interactive and user-friendly web experiences. Experienced with React and modern web technologies, I enjoy transforming design ideas into real-world applications. I am motivated to collaborate with professional teams, continuously grow my skills, and contribute to building seamless, engaging, and impactful digital products.
+I turn design ideas into clean, interactive web experiences. Comfortable working across the full front-end stack — from pixel-perfect UI to wiring up state and APIs — and I like collaborating with teams where I can keep learning and shipping real products.
 
 ---
 
-- 🌱 I’m currently learning **Advance React**
-- 👩🏻‍💻 All of my projects are available on [GitHub](https://github.com/yektaakhavan)
-- 🔗 See my portfolio at https://yekta-akhavan.vercel.app/
+### 📌 Featured Projects
+
+- **[The Coffee Land](https://github.com/yektaakhavan/The-Coffee-Land)** — Coffee shop e-commerce app with role-based auth (admin/customer), protected routes, and a shopping cart. Built with React, React Router, Context API, and Tailwind CSS.
+- **[Author Portfolio](https://github.com/yektaakhavan/Author-portfolio)** — A multi-page React SPA presenting an author's bio, articles, and books, with sign-up and a client-side shopping cart. Built with React and React Bootstrap. [Live demo](https://www.akhavan-safaei.ir/)
+- **[My Portfolio](https://github.com/yektaakhavan/My-Portfolio)** — My personal portfolio site showcasing projects, skills, and experience. Built with React and React Bootstrap, fully responsive. [Live demo](https://yekta-akhavan.vercel.app/)
+
+---
+
+- 🌱 Currently deepening my **React** skills — _(React Query, performance optimization, Server Components, Redux Toolkit)_
+- 👩🏻‍💻 All of my projects are on [GitHub](https://github.com/yektaakhavan)
+- 🔗 Portfolio: [yekta-akhavan.vercel.app](https://yekta-akhavan.vercel.app/)
 - 📫 Reach me at **yekta.akhavan.dev@gmail.com**
 
 ---
@@ -36,7 +43,6 @@ Front-End Developer passionate about crafting interactive and user-friendly web 
 ---
 
 ## 🔗 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yekta-akhavan/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
@@ -44,19 +50,10 @@ Front-End Developer passionate about crafting interactive and user-friendly web 
 
 ## 📊 GitHub Stats
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yektaakhavan&layout=compact&theme=nightowl)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yektaakhavan&theme=nightowl)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yektaakhavan&layout=compact&theme=nightowl" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=yektaakhavan&theme=nightowl" width="48%" />
+</p>
 
 [![wakatime](https://wakatime.com/badge/user/52e2385d-e87b-4625-8263-8b46e9c088a2.svg)](https://wakatime.com/@52e2385d-e87b-4625-8263-8b46e9c088a2)
-
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yektaakhavan&theme=nightowl)
-
-
-
-
-
-
-
