@@ -23,6 +23,7 @@ Front-End Developer passionate about crafting interactive and user-friendly web 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### 🎨 UI / Styling
+![Tailwind](https://img.shields.io/badge/Tailwind-white?style=flat&logo=tailwindcss&logoColor=00BCFF)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
