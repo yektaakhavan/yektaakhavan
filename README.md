@@ -20,6 +20,13 @@ I turn design ideas into clean, interactive web experiences. Comfortable working
 
 ---
 
+## 🚧 Currently Building
+- Coffee Land E-commerce Platform
+- Personal Brand Portfolio
+- Improving React Architecture Skills
+  
+---
+
 ## 🛠️ Languages & Tools
 
 ### 💻 Front-End Development
