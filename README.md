@@ -30,28 +30,30 @@ I turn design ideas into clean, interactive web experiences. Comfortable working
 ## 🛠️ Languages & Tools
 
 ### 💻 Front-End Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,typescript,redux)
+
 
 ### 🎨 UI / Styling
-![Tailwind](https://img.shields.io/badge/Tailwind-white?style=flat&logo=tailwindcss&logoColor=00BCFF)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
+
+![My Skills](https://skillicons.dev/icons?i=tailwind,sass,bootstrap,figma,xd,ps)
+
 
 ### 🔧 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![My Skills](https://skillicons.dev/icons?i=git,github)
+
+
+###  
+
+![My Skills](https://skillicons.dev/icons?i=vite,vscode,npm)
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yekta-akhavan/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yekta-akhavan/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/)
 
 ---
 
