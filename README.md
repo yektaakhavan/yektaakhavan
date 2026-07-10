@@ -20,17 +20,12 @@
     <img src="https://komarev.com/ghpvc/?username=yektaakhavan&label=Profile%20views&color=F77B7B&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
   </a>
   &nbsp;
-  <a href="https://github.com/yektaakhavan?tab=followers">
-    <img src="https://img.shields.io/github/followers/yektaakhavan?label=Followers&style=for-the-badge&color=F77B7B&labelColor=0D1117&logo=github&logoColor=white" alt="GitHub followers" />
-  </a>
-  &nbsp;
+ 
   <a href="https://github.com/yektaakhavan?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?color=F77B7B&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyektaakhavan&style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Public repositories" />
   </a>
   &nbsp;
-  <a href="https://github.com/yektaakhavan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/yektaakhavan?label=Total%20Stars&style=for-the-badge&color=F7D44B&labelColor=0D1117&logo=starship&logoColor=F7D44B" alt="Total stars" />
-  </a>
+ 
 </p>
 
 <p align="center">
