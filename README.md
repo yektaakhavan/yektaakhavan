@@ -1,7 +1,18 @@
-# 🙋‍♀️ Hi, I'm Yekta Akhavan
+<h1 align="center">
+  Hi 👋 I'm Yekta Akhavan
+</h1>
+
+<h3 align="center">
+  Front-End Developer crafting modern, responsive and user-focused web experiences.
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77B7B&center=true&vCenter=true&width=920&lines=Front-End+Developer+building+with+React;Turning+design+ideas+into+interactive+web+experiences;Deepening+React+skills+and+shipping+real+products;Building+clean,+pixel-perfect+UIs+and+state+management" alt="Animated profile headline" />
+  Passionate about building clean interfaces with React, TypeScript and modern front-end technologies.
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77B7B&center=true&vCenter=true&width=920&lines=Front-End+Developer+building+with+React;Turning+design+ideas+into+interactive+web+experiences;Building+clean,+responsive+and+accessible+interfaces;Always+learning,+always+building" />
 </p>
 
 <p align="center">
@@ -49,10 +60,13 @@
 <tr>
 <td width="55%">
 
-I'm **Yekta Akhavan**, a Front‑End Developer from Iran with a passion for crafting clean, interactive web experiences. I enjoy turning design ideas into real, usable interfaces — from pixel‑perfect UI to wiring up state and APIs. I'm comfortable working across the full front‑end stack and I love collaborating with teams where I can keep learning and shipping products that matter.
+## 👋 About Me
 
-My GitHub is a reflection of my journey: personal projects, experiments, and tools that showcase my skills and growth as a developer.
+I'm **Yekta Akhavan**, a Front-End Developer from Iran passionate about building modern, responsive, and user-friendly web applications.
 
+I enjoy turning ideas into polished interfaces using **React**, **TypeScript**, and modern front-end technologies while keeping code clean, scalable, and maintainable.
+
+My GitHub reflects my learning journey through real-world projects, UI experiments, and continuous improvement as a developer.
 </td>
 <td width="45%">
 
@@ -167,15 +181,7 @@ My GitHub is a reflection of my journey: personal projects, experiments, and too
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yektaakhavan&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=F77B7B" alt="GitHub profile summary details" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@52e2385d-e87b-4625-8263-8b46e9c088a2">
-    <img src="https://wakatime.com/badge/user/52e2385d-e87b-4625-8263-8b46e9c088a2.svg" alt="WakaTime" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yektaakhavan&theme=nightowl&hide_border=true" alt="WakaTime Stats" width="60%" />
-</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="section divider" />
 
@@ -210,6 +216,14 @@ My GitHub is a reflection of my journey: personal projects, experiments, and too
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
+---
+
 <p align="center">
-  <b>✨ Thanks for stopping by! ✨</b>
+
+> *"Great user experiences are built with empathy, attention to detail, and clean code."*
+
+</p>
+
+<p align="center">
+Thanks for visiting my profile! ⭐
 </p>
