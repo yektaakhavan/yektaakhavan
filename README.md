@@ -1,6 +1,8 @@
 # 🙋‍♀️ Hi, I'm Yekta Akhavan
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77B7B&center=true&vCenter=true&width=920&lines=Front-End+Developer+building+with+React;Turning+design+ideas+into+interactive+web+experiences;Deepening+React+skills+and+shipping+real+products;Building+clean,+pixel-perfect+UIs+and+state+management" alt="Animated profile headline" />
+</p>
 
 <p align="center">
   <a href="https://github.com/yektaakhavan">
@@ -29,8 +31,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Yekta%20Akhavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/your_instagram_handle/">
-    <img src="https://img.shields.io/badge/Instagram-@your_handle-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-yekta--akhavan-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://yekta-akhavan.vercel.app/">
@@ -54,8 +56,7 @@ My GitHub is a reflection of my journey: personal projects, experiments, and too
 </td>
 <td width="45%">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yektaakhavan&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=F77B7B&text_color=FFFFFF" alt="Top Languages" width="100%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yektaakhavan&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=F77B7B&text_color=FFFFFF" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
@@ -97,16 +98,6 @@ My GitHub is a reflection of my journey: personal projects, experiments, and too
   </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-| 🏗️ Foundations | 🎯 Specialization | 🚀 Building | 🌟 Outcome |
-|:---:|:---:|:---:|:---:|
-| HTML · CSS · JavaScript<br>Git · GitHub | React · React Router<br>State Management (Redux)<br>Tailwind · Bootstrap · Sass | The Coffee Land (E‑commerce)<br>Author & Personal Portfolios<br>TypeScript · Next.js | Open Source Contributions<br>Freelance Projects |
-
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="section divider" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Work
@@ -141,42 +132,50 @@ My GitHub is a reflection of my journey: personal projects, experiments, and too
 </div>
 
 
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="section divider" />
 
 ## 🛠️ &nbsp;Tech Stack
 
-### 💻 Front‑End Development
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,typescript,redux,tailwind,sass,bootstrap,figma,xd,ps,git,github,vite,vscode,npm&perline=9" alt="Front‑end technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery&perline=9" alt="Languages" />
+</p>
+
+### 🧠 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,bootstrap,vite&perline=9" alt="Frameworks" />
 </p>
 
 ### 🎨 Design & Prototyping
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps" alt="Design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps&perline=9" alt="Design" />
 </p>
 
-### 🔧 Tools & Environment
+### ⚙️ Tools & Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,npm" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&perline=9" alt="Tools" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="section divider" />
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
+
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yektaakhavan?label=Followers&style=for-the-badge&color=F77B7B&labelColor=0D1117&logo=github" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/yektaakhavan?label=Total%20Stars&style=for-the-badge&color=F7D44B&labelColor=0D1117&logo=starship" alt="Stars" />
-  &nbsp;
-  <img src="https://img.shields.io/github/last-commit/yektaakhavan/yektaakhavan?label=Last%20Commit&style=for-the-badge&color=61DAFB&labelColor=0D1117&logo=git" alt="Last Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yektaakhavan&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=F77B7B" alt="GitHub profile summary details" width="100%" />
 </p>
 
 <p align="center">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yektaakhavan&theme=nightowl&hide_border=true&background=0D1117&ring=F77B7B&fire=F7D44B&currStreakLabel=F77B7B" alt="Streak Stats" width="48%" />
+  <a href="https://wakatime.com/@52e2385d-e87b-4625-8263-8b46e9c088a2">
+    <img src="https://wakatime.com/badge/user/52e2385d-e87b-4625-8263-8b46e9c088a2.svg" alt="WakaTime" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yektaakhavan&theme=nightowl&hide_border=true" alt="WakaTime Stats" width="60%" />
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="section divider" />
 
@@ -192,8 +191,8 @@ My GitHub is a reflection of my journey: personal projects, experiments, and too
     <img src="https://img.shields.io/badge/LinkedIn-Yekta%20Akhavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/your_instagram_handle/">
-    <img src="https://img.shields.io/badge/Instagram-@your_handle-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-yekta--akhavan-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://yekta-akhavan.vercel.app/">
