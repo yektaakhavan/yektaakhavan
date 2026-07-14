@@ -65,7 +65,7 @@ My GitHub reflects my learning journey through real-world projects, UI experimen
 </td>
 <td width="45%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yektaakhavan&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=F77B7B&text_color=FFFFFF" alt="Top Languages" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yektaakhavan&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=F77B7B&text_color=FFFFFF" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
